@@ -4,7 +4,7 @@ description: "Keep learning "
 author: praneeth reddy nakka
 date: 2022-03-15T07:57:33.152Z
 tags:
-  - post
+  - feature
 image: /assets/blog/hero-bcg-2.jpeg
 imageAlt: Keep learning
 ---
